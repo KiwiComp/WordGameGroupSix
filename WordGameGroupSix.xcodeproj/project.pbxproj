@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1063B5BB2D91A3D900092807 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 1063B5BA2D91A3D200092807 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		1063B5A12D91A38700092807 /* WordGameGroupSix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordGameGroupSix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1063B5BA2D91A3D200092807 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		1063B5982D91A38700092807 = {
 			isa = PBXGroup;
 			children = (
+				1063B5BA2D91A3D200092807 /* .gitignore */,
 				1063B5A32D91A38700092807 /* WordGameGroupSix */,
 				1063B5A22D91A38700092807 /* Products */,
 			);
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1063B5BB2D91A3D900092807 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
